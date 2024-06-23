@@ -41,4 +41,4 @@ const users = new mongoose.model("users",userSchema); // "users" is collection n
 
 //models defining
 
-module.exports = users;
+module.exports = users; 
